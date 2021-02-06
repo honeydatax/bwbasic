@@ -17,7 +17,7 @@ quit
 
 title:
 	print "<html><head><title>"+t$
-	print "</title></head></body>"
+	print "</title></head><body>"
 return 
 closes:
 	print "</body></html>"
